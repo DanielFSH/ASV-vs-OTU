@@ -1,0 +1,6 @@
+The tsv files are the exported ASV and OTU frequency tables, with a pseudo-count.
+These files were then opened in excel, the comment lines removed, and then the table was transposed and saved as csv files.
+These pseudo-asv and pseudo-otu files were used as dataframes in the 'relative frequency.R' script
+the output of that script are the relative-asv.csv and the relative-otu.csv files. 
+
+The csv files are the result of 

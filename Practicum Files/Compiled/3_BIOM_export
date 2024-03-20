@@ -1,0 +1,9 @@
+The following code was used to export the resulting BIOM file into a tsv file:
+The following code was used to export the resulting BIOM file into a tsv file:
+In the ASV directory
+biom convert -i feature-table.biom -o pseudo-asv.tsv –to-tsv
+In the OTU directory
+biom convert -i feature-table.biom -o pseudo-otu.tsv –to-tsv
+
+I then used the exported files alongside the relative_frequency.R R file to generate relative freqeuncy 
+tables from the ASV and OTU data.

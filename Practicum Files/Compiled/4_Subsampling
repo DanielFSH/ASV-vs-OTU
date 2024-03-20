@@ -1,0 +1,20 @@
+I then transposed the relative frequency tables for ASVs and OTUs and ran them through Micropita using the 
+Huttenhower Lab Galaxy module. 
+
+I selected 20,50,and 100 samples for each subsampling method.
+
+For Supervised methods, I used presence of allergy as the 'Label'
+
+I then used the PCA_rel.R file to perform PCA and SPCA on the relative frequency tables.
+
+I manually combined the results of these subsampling methods into an excel file, one for each subsample size.
+
+These files were 'Micropita20_rel.csv', 'Micropita50_rel.csv', 'Micropita100_rel.csv'
+
+I then used Micropitavenndiagram_rel.R to generate the Venn Diagrams. It also sets up the excel files I needed 
+to run the LEfSe analysis. 
+
+The ForLefse files were edited for each subsampling method, to contain only the corresponding binary column. 
+The file would be saved as a tsv file and then used as the input for the LEfSe analysis on Galaxy.
+
+

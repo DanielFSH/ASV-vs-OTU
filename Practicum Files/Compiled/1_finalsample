@@ -1,0 +1,8 @@
+Use the Metadata.csv and the DIABIMMUNE data files to run the code in the R file "final_sample.R" 
+to generate the kareliametadata.csv file,
+which has the selected 199 samples and the related metadata. 
+
+
+
+The Metadata_vis.R R file was used to inspect the data initially, and to make
+various decisions about how to select the final sample. 

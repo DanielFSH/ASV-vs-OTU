@@ -1,0 +1,23 @@
+singularity build qiime2-2021.11.sif docker://quay.io/qiime2/core:2021.11
+
+Using the qiime image, and the manifest file, and the 16s rRNA files
+I then used the demultiplex.sh bash script to make a qiime object containing the demultiplexed data.
+called paired-end-karelia.qza
+
+I used visualize_demultiplex.sh to generate a qiime object that can be visualy examined, 
+to decide appropriate quality score cutoffs. 
+
+For the ASVs I used the dada2.sh script to process the reads.
+the input is the paired-end-karelia.qza file
+the output files asv-karelia-rep-seqs.qza and asv-karelia-rep-seqs are used for taxonomy and phylogeny
+
+For the OTUs I used the deblur.sh script to process the reads.
+The same input as for the ASVs
+the output files are karelia-rep-seqs-deblur.qza and karelia-table-deblur.qza.
+
+
+the taxonomy-and-differetial.sh script generate taxonomy data from the ASV/OTUs using the silva classifier
+It collapses based on genus level and then generates differential abundance data from the ASV/OTU table.
+It then generates relative frequencies and then exports the table.
+
+The code was adaptated accordingly to reference and generate the approriate files in the ASV or OTU directory.

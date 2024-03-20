@@ -1,0 +1,22 @@
+I first moved only the files of the selected 199 samples to another directory using the following code
+
+#The sample code I noted down was:
+parallel  -a Repasv20_metagenomic.txt cp {}_profile.txt Repasv20
+
+#code used to move selected files from a text file:
+parallel  -a MetagenomicSample.txt cp {}_pe_1.fasq.gz,{}_pe_2.fasq.gz,{}_se_1.fasq.gz,{}_se_2.fasq.gz Complete 
+
+The Micropitavenndiagram_rel.R file has a section for the metagenomic data,
+it takes into account which of the 199 16s rRNA samples had a corresponding
+WGS sample that was able to be processed using Metaphlan 3.
+
+It then produces text files, each with the wgs sample ids of the sample that were selected,
+for each of the subsampling methods. 
+It also produces a similar file, containing the samples and the associated allergy label for the samples selected.
+
+
+the wgssamples.sh file makes use of the text files, to make copies of the correct sample, 
+and move them to distinct directories, one for each subsampling method, keeping ASVs or OTUs separate.
+The samples in each directory are merged using Metaphlan 3. 
+
+The merged file, in conjuction with the allergy information, was used for LEfSe analysis. 
