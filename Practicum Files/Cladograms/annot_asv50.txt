@@ -1,0 +1,778 @@
+title	ASV n=50
+title_font_size	13
+start_rotation	90
+total_plotted_degrees	330
+clade_marker_size	5
+clade_marker_edge_width	0.3
+clade_marker_color	#176603
+clade_separation	0.5
+annotation_background_offset	0.1
+annotation_legend_font_size	5	
+annotation_font_size	8
+*	branch_thickness	0.5
+*	branch_color_from_ancestor	0
+*	branch_bracket_depth	0.75
+*	ring_edge_width	1	0.0
+ring_label_font_size	1	10
+ring_label_font_size	2	10
+ring_label_font_size	3	10
+ring_label_font_size	4	10
+ring_label_font_size	5	10
+ring_label_font_size	6	10
+ring_label_font_size	7	10
+internal_label	2	Phy.
+internal_label	3	Classes
+internal_label	4	Orders
+internal_label	5	Families
+internal_label	6	Genera
+internal_label_font_size	8
+internal_labels_rotation	90
+ring_internal_separator_thickness	1	0.5
+ring_separator_color	1	#888888
+ring_label	1	Discriminant
+ring_label_color	1	#1B9E77
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Unclassified	ring_color	1	#1B9E77
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	ring_color	1	#1B9E77
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae.Unclassified	ring_color	1	#1B9E77
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Peptoniphilus	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Catenibacterium	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Faecalitalea	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Mitsuokella	ring_color	1	#1B9E77
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	ring_color	1	#1B9E77
+D0Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	ring_alpha	1	0.75
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	ring_alpha	1	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	ring_alpha	1	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	ring_alpha	1	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella9	ring_alpha	1	0.75
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae.Enterococcus	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerosporobacter	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus2	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Romboutsia	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG002	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG014	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	ring_alpha	1	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_alpha	1	0.75
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_alpha	1	0.75
+D0Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	ring_color	1	#1B9E77
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	ring_color	1	#1B9E77
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	ring_color	1	#1B9E77
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	ring_color	1	#1B9E77
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella9	ring_color	1	#1B9E77
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae.Enterococcus	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerosporobacter	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus2	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Romboutsia	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG002	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG014	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	ring_color	1	#1B9E77
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_color	1	#1B9E77
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_color	1	#1B9E77
+D0Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	ring_alpha	1	0.40
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	ring_alpha	1	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	ring_alpha	1	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	ring_alpha	1	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella9	ring_alpha	1	0.40
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae.Enterococcus	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerosporobacter	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus2	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Romboutsia	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG002	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG014	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	ring_alpha	1	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_alpha	1	0.40
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_alpha	1	0.40
+ring_internal_separator_thickness	2	0.5
+ring_separator_color	2	#888888
+ring_label	2	Distinct
+ring_label_color	2	#D95F02
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae.Enterococcus	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG013	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_color	2	#D95F02
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Coriobacteriaceae.Collinsella	ring_alpha	2	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	ring_alpha	2	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	ring_alpha	2	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Tannerellaceae.Parabacteroides	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumeligensgroup	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumhalliigroup	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcustorquesgroup	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Fusicatenibacter	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG004	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Eubacteriumcoprostanoligenesgroup	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminiclostridium9	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus1	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus2	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Clostridiuminnocuumgroup	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.ErysipelotrichaceaeUCG003	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Dialister	ring_alpha	2	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	ring_alpha	2	0.75
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Coriobacteriaceae.Collinsella	ring_color	2	#D95F02
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	ring_color	2	#D95F02
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	ring_color	2	#D95F02
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Tannerellaceae.Parabacteroides	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumeligensgroup	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumhalliigroup	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcustorquesgroup	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Fusicatenibacter	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG004	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Eubacteriumcoprostanoligenesgroup	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminiclostridium9	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus1	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus2	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Clostridiuminnocuumgroup	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.ErysipelotrichaceaeUCG003	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Dialister	ring_color	2	#D95F02
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	ring_color	2	#D95F02
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Coriobacteriaceae.Collinsella	ring_alpha	2	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	ring_alpha	2	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	ring_alpha	2	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Tannerellaceae.Parabacteroides	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumeligensgroup	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumhalliigroup	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcustorquesgroup	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Fusicatenibacter	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG004	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Eubacteriumcoprostanoligenesgroup	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminiclostridium9	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus1	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus2	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Clostridiuminnocuumgroup	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.ErysipelotrichaceaeUCG003	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Dialister	ring_alpha	2	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	ring_alpha	2	0.40
+ring_internal_separator_thickness	3	0.5
+ring_separator_color	3	#888888
+ring_label	3	Diverse
+ring_label_color	3	#7570B3
+D0Bacteria.Cyanobacteria.Oxyphotobacteria.Chloroplast	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus2	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus3	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG005	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	ring_color	3	#7570B3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	ring_alpha	3	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_alpha	3	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_alpha	3	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_alpha	3	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_alpha	3	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	ring_alpha	3	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_color	3	#7570B3
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	ring_color	3	#7570B3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	ring_alpha	3	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_alpha	3	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_alpha	3	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_alpha	3	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_alpha	3	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	ring_alpha	3	0.40
+ring_internal_separator_thickness	4	0.5
+ring_separator_color	4	#888888
+ring_label	4	Extreme
+ring_label_color	4	#E7298A
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	ring_color	4	#E7298A
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Unclassified	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae.Unclassified	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Alloprevotella	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella7	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	ring_color	4	#E7298A
+D0Bacteria.Cyanobacteria.Melainabacteria.Gastranaerophilales.ClostridiumspK4410MGS306.ClostridiumspK4410MGS306	ring_color	4	#E7298A
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae1.Clostridiumsensustricto1	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Peptoniphilus	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumhalliigroup	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumruminantiumgroup	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcustorquesgroup	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Agathobacter	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Epulopiscium	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Fusicatenibacter	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeNK4A136group	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG001	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Tyzzerella	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Unclassified	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Romboutsia	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Eubacteriumcoprostanoligenesgroup	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG013	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus1	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus2	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.UBA1819	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Catenibacterium	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.ErysipelotrichaceaeUCG003	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Dialister	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Mitsuokella	ring_color	4	#E7298A
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified.Unclassified	ring_color	4	#E7298A
+D0Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae.Bilophila	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	ring_alpha	4	0.75
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_alpha	4	0.75
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	ring_alpha	4	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Clostridioides	ring_alpha	4	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	ring_alpha	4	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_alpha	4	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_alpha	4	0.75
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_alpha	4	0.75
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	ring_alpha	4	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Clostridioides	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_color	4	#E7298A
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_color	4	#E7298A
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_color	4	#E7298A
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	ring_color	4	#E7298A
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	ring_alpha	4	0.40
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_alpha	4	0.40
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	ring_alpha	4	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Clostridioides	ring_alpha	4	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	ring_alpha	4	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_alpha	4	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_alpha	4	0.40
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_alpha	4	0.40
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	ring_alpha	4	0.40
+ring_internal_separator_thickness	5	0.5
+ring_separator_color	5	#888888
+ring_label	5	PCA
+ring_label_color	5	#66A61E
+D0Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinotignum	ring_color	5	#66A61E
+D0Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Alloprevotella	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella9	ring_color	5	#66A61E
+D0Bacteria.Cyanobacteria.Melainabacteria.Gastranaerophilales.Unclassified.Unclassified	ring_color	5	#66A61E
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Tyzzerella	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Tyzzerella3	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Clostridioides	ring_color	5	#66A61E
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	ring_alpha	5	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	ring_alpha	5	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae.Unclassified	ring_alpha	5	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae	ring_alpha	5	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	ring_alpha	5	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella7	ring_alpha	5	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Epulopiscium	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Catenibacterium	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Faecalitalea	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Acidaminococcus	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_alpha	5	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_alpha	5	0.75
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified.Azospirillumsp4725	ring_alpha	5	0.75
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_alpha	5	0.75
+D0Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae.Bilophila	ring_alpha	5	0.75
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	ring_alpha	5	0.75
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae.Unclassified	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella7	ring_color	5	#66A61E
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Epulopiscium	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Catenibacterium	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Faecalitalea	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Acidaminococcus	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_color	5	#66A61E
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_color	5	#66A61E
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified.Azospirillumsp4725	ring_color	5	#66A61E
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_color	5	#66A61E
+D0Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae.Bilophila	ring_color	5	#66A61E
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	ring_color	5	#66A61E
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	ring_alpha	5	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	ring_alpha	5	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae.Unclassified	ring_alpha	5	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae	ring_alpha	5	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	ring_alpha	5	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella7	ring_alpha	5	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Epulopiscium	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Catenibacterium	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Faecalitalea	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Acidaminococcus	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_alpha	5	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_alpha	5	0.40
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified.Azospirillumsp4725	ring_alpha	5	0.40
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_alpha	5	0.40
+D0Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae.Bilophila	ring_alpha	5	0.40
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	ring_alpha	5	0.40
+ring_internal_separator_thickness	6	0.5
+ring_separator_color	6	#888888
+ring_label	6	Representative
+ring_label_color	6	#E6AB02
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella9	ring_color	6	#E6AB02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Agathobacter	ring_color	6	#E6AB02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerosporobacter	ring_color	6	#E6AB02
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Barnesiellaceae.Barnesiella	ring_alpha	6	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Marinifilaceae.Odoribacter	ring_alpha	6	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_alpha	6	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Barnesiellaceae.Barnesiella	ring_color	6	#E6AB02
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Marinifilaceae.Odoribacter	ring_color	6	#E6AB02
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_color	6	#E6AB02
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Barnesiellaceae.Barnesiella	ring_alpha	6	0.40
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Marinifilaceae.Odoribacter	ring_alpha	6	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_alpha	6	0.40
+ring_internal_separator_thickness	7	0.5
+ring_separator_color	7	#888888
+ring_label	7	SPCA
+ring_label_color	7	#A6761D
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Eggerthella	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumhalliigroup	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumventriosumgroup	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcustorquesgroup	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Agathobacter	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Fusicatenibacter	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeND3007group	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeNK4A136group	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Intestinimonas	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminiclostridium5	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG013	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus1	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus2	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.UBA1819	ring_color	7	#A6761D
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	ring_alpha	7	0.75
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_alpha	7	0.75
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_alpha	7	0.75
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_alpha	7	0.75
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_alpha	7	0.75
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	ring_color	7	#A6761D
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_color	7	#A6761D
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_color	7	#A6761D
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	ring_alpha	7	0.40
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_alpha	7	0.40
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_alpha	7	0.40
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_alpha	7	0.40
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_alpha	7	0.40
+ring_internal_separator_thickness	8	0.5
+ring_separator_color	8	#000000
+ring_label	8	Diference expressed
+ring_label_color	8	#666666
+ring_color	8	#666666
+D0Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinomyces	ring_height	8	1
+D0Bacteria.Actinobacteria.Actinobacteria.Actinomycetales.Actinomycetaceae.Actinotignum	ring_height	8	1
+D0Bacteria.Actinobacteria.Actinobacteria.Bifidobacteriales.Bifidobacteriaceae.Bifidobacterium	ring_height	8	1
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	ring_height	8	3
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Coriobacteriaceae.Collinsella	ring_height	8	1
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Eggerthella	ring_height	8	1
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Unclassified	ring_height	8	2
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	ring_height	8	3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Barnesiellaceae.Barnesiella	ring_height	8	1
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	ring_height	8	3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Marinifilaceae.Odoribacter	ring_height	8	1
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae.Unclassified	ring_height	8	3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae	ring_height	8	3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Alloprevotella	ring_height	8	2
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	ring_height	8	3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	ring_height	8	3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella7	ring_height	8	2
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella9	ring_height	8	3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	ring_height	8	3
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Tannerellaceae.Parabacteroides	ring_height	8	1
+D0Bacteria.Cyanobacteria.Melainabacteria.Gastranaerophilales.ClostridiumspK4410MGS306.ClostridiumspK4410MGS306	ring_height	8	1
+D0Bacteria.Cyanobacteria.Melainabacteria.Gastranaerophilales.Unclassified.Unclassified	ring_height	8	1
+D0Bacteria.Cyanobacteria.Oxyphotobacteria.Chloroplast	ring_height	8	1
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	ring_height	8	4
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	ring_height	8	3
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	ring_height	8	4
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae.Enterococcus	ring_height	8	2
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	ring_height	8	2
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Streptococcaceae.Streptococcus	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Clostridiaceae1.Clostridiumsensustricto1	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Peptoniphilus	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumeligensgroup	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumhalliigroup	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumruminantiumgroup	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumventriosumgroup	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	ring_height	8	4
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcustorquesgroup	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Agathobacter	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerosporobacter	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	ring_height	8	5
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	ring_height	8	5
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus2	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus3	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Epulopiscium	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Fusicatenibacter	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	ring_height	8	6
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	ring_height	8	4
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeND3007group	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeNK4A136group	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG001	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG004	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Tyzzerella	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Tyzzerella3	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Unclassified	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	ring_height	8	4
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Clostridioides	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	ring_height	8	6
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Romboutsia	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Eubacteriumcoprostanoligenesgroup	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	ring_height	8	5
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Intestinimonas	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Oscillibacter	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminiclostridium5	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminiclostridium9	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG002	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG005	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG013	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG014	ring_height	8	1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus1	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus2	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	ring_height	8	3
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.UBA1819	ring_height	8	2
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	ring_height	8	4
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Clostridiuminnocuumgroup	ring_height	8	1
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Catenibacterium	ring_height	8	3
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	ring_height	8	4
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.ErysipelotrichaceaeUCG003	ring_height	8	2
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Faecalitalea	ring_height	8	2
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	ring_height	8	3
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Acidaminococcus	ring_height	8	1
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	ring_height	8	2
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	ring_height	8	3
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Dialister	ring_height	8	2
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	ring_height	8	3
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Mitsuokella	ring_height	8	2
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	ring_height	8	3
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	ring_height	8	2
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified.Azospirillumsp4725	ring_height	8	1
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified.Unclassified	ring_height	8	1
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	ring_height	8	3
+D0Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae.Bilophila	ring_height	8	2
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	ring_height	8	3
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	annotation	*:Corynebacterium1
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Unclassified	annotation	*:Unclassified
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	annotation	*:Bacteroides
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	annotation	*:Dysgonomonas
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae.Unclassified	annotation	*:Unclassified
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae	annotation	Muribaculaceae
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Alloprevotella	annotation	*:Alloprevotella
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	annotation	*:Paraprevotella
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	annotation	*:Prevotella
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella7	annotation	*:Prevotella7
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella9	annotation	*:Prevotella9
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	annotation	*:Alistipes
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	annotation	*:Campylobacter
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	annotation	*:Rummeliibacillus
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	annotation	*:Staphylococcus
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae.Enterococcus	annotation	*:Enterococcus
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	annotation	*:Lactobacillus
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	annotation	*:Finegoldia
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Peptoniphilus	annotation	*:Peptoniphilus
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumhalliigroup	annotation	*:Eubacteriumhalliigroup
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	annotation	*:Ruminococcusgauvreauiigroup
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	annotation	*:Ruminococcusgnavusgroup
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcustorquesgroup	annotation	*:Ruminococcustorquesgroup
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Agathobacter	annotation	*:Agathobacter
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerosporobacter	annotation	*:Anaerosporobacter
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	annotation	*:Anaerostipes
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	annotation	*:Blautia
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus2	annotation	*:Coprococcus2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	annotation	*:Dorea
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Epulopiscium	annotation	*:Epulopiscium
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Fusicatenibacter	annotation	*:Fusicatenibacter
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	annotation	*:Lachnoclostridium
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	annotation	*:Lachnospira
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	annotation	*:LachnospiraceaeFCS020group
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeNK4A136group	annotation	*:LachnospiraceaeNK4A136group
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	annotation	*:LachnospiraceaeUCG003
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	annotation	*:Roseburia
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Tyzzerella	annotation	*:Tyzzerella
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	annotation	Lachnospiraceae
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Clostridioides	annotation	*:Clostridioides
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	annotation	*:Intestinibacter
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Romboutsia	annotation	*:Romboutsia
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Eubacteriumcoprostanoligenesgroup	annotation	*:Eubacteriumcoprostanoligenesgroup
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	annotation	*:Butyricicoccus
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	annotation	*:CAG352
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	annotation	*:Caproiciproducens
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	annotation	*:Faecalibacterium
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	annotation	*:Flavonifractor
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG013	annotation	*:RuminococcaceaeUCG013
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus1	annotation	*:Ruminococcus1
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus2	annotation	*:Ruminococcus2
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	annotation	*:Subdoligranulum
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.UBA1819	annotation	*:UBA1819
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	annotation	*:Caloribacterium
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Catenibacterium	annotation	*:Catenibacterium
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	annotation	*:Erysipelatoclostridium
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.ErysipelotrichaceaeUCG003	annotation	*:ErysipelotrichaceaeUCG003
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Faecalitalea	annotation	*:Faecalitalea
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	annotation	*:Holdemanella
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	annotation	*:Phascolarctobacterium
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	annotation	*:Succiniclasticum
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Dialister	annotation	*:Dialister
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	annotation	*:Megamonas
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Mitsuokella	annotation	*:Mitsuokella
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	annotation	*:Negativicoccus
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	annotation	*:Veillonella
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	annotation	Unclassified
+D0Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae.Bilophila	annotation	*:Bilophila
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	annotation	*:Aeromonas
+D0Bacteria.Actinobacteria.Actinobacteria.Corynebacteriales.Corynebacteriaceae.Corynebacterium1	annotation_background_color	k
+D0Bacteria.Actinobacteria.Coriobacteriia.Coriobacteriales.Eggerthellaceae.Unclassified	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Bacteroidaceae.Bacteroides	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Dysgonomonadaceae.Dysgonomonas	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae.Unclassified	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Muribaculaceae	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Alloprevotella	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Paraprevotella	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella7	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Prevotellaceae.Prevotella9	annotation_background_color	k
+D0Bacteria.Bacteroidetes.Bacteroidia.Bacteroidales.Rikenellaceae.Alistipes	annotation_background_color	k
+D0Bacteria.Epsilonbacteraeota.Campylobacteria.Campylobacterales.Campylobacteraceae.Campylobacter	annotation_background_color	k
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Planococcaceae.Rummeliibacillus	annotation_background_color	k
+D0Bacteria.Firmicutes.Bacilli.Bacillales.Staphylococcaceae.Staphylococcus	annotation_background_color	k
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Enterococcaceae.Enterococcus	annotation_background_color	k
+D0Bacteria.Firmicutes.Bacilli.Lactobacillales.Lactobacillaceae.Lactobacillus	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Finegoldia	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.FamilyXI.Peptoniphilus	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Eubacteriumhalliigroup	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgauvreauiigroup	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcusgnavusgroup	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Ruminococcustorquesgroup	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Agathobacter	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerosporobacter	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Anaerostipes	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Blautia	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Coprococcus2	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Dorea	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Epulopiscium	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Fusicatenibacter	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnoclostridium	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Lachnospira	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeFCS020group	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeNK4A136group	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.LachnospiraceaeUCG003	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Roseburia	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae.Tyzzerella	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Lachnospiraceae	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Clostridioides	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Intestinibacter	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Peptostreptococcaceae.Romboutsia	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Eubacteriumcoprostanoligenesgroup	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Butyricicoccus	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.CAG352	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Caproiciproducens	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Faecalibacterium	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Flavonifractor	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.RuminococcaceaeUCG013	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus1	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Ruminococcus2	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.Subdoligranulum	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Clostridiales.Ruminococcaceae.UBA1819	annotation_background_color	k
+D0Bacteria.Firmicutes.Clostridia.Thermoanaerobacterales.Thermoanaerobacteraceae.Caloribacterium	annotation_background_color	k
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Catenibacterium	annotation_background_color	k
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Erysipelatoclostridium	annotation_background_color	k
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.ErysipelotrichaceaeUCG003	annotation_background_color	k
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Faecalitalea	annotation_background_color	k
+D0Bacteria.Firmicutes.Erysipelotrichia.Erysipelotrichales.Erysipelotrichaceae.Holdemanella	annotation_background_color	k
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Phascolarctobacterium	annotation_background_color	k
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Acidaminococcaceae.Succiniclasticum	annotation_background_color	k
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Dialister	annotation_background_color	k
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Megamonas	annotation_background_color	k
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Mitsuokella	annotation_background_color	k
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Negativicoccus	annotation_background_color	k
+D0Bacteria.Firmicutes.Negativicutes.Selenomonadales.Veillonellaceae.Veillonella	annotation_background_color	k
+D0Bacteria.Proteobacteria.Alphaproteobacteria.Rhodospirillales.Unclassified	annotation_background_color	k
+D0Bacteria.Proteobacteria.Deltaproteobacteria.Desulfovibrionales.Desulfovibrionaceae.Bilophila	annotation_background_color	k
+D0Bacteria.Proteobacteria.Gammaproteobacteria.Aeromonadales.Aeromonadaceae.Aeromonas	annotation_background_color	k
